@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.Content{
+    width: 1010px;
+    height: 1300px;
+    background-color: blanchedalmond;
+    margin-top: 0;
+}
+h1{
+    text-align: center;
+    font-size: 29px;
+}
+.Hobby{
+    width: 980px;
+    height: 371px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border: 5px solid #FA8072;
+    background-color: #FFA07A;
+}
+.Basketball_img{
+    margin-left: 10px;
+    width: 280px;
+}
+
+h2{
+    text-align: center;
+    width: 970px;
+    height: 26px;
+    margin-top: 10px;
+    font-size: 27.66px;
+}
+.Work{
+    width: 980px;
+    height: 371px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #87CEFA;
+    border: 5px solid #0000FF;    
+}
+.cheese_img{
+    margin-left: 10px;
+    width: 280px;
+}
+.Underworld{
+    width: 980px;
+    height: 402px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #FAFAD2;
+    border: 5px solid #FFD700;    
+}
+.underworld_img{
+    margin-left: 10px;
+}
+.logo{
+    width: 30px;
+    text-align: center;
+    margin-top: 6px;
+}
+.Contact{
+    text-align: center;
+    margin-top: 10px;
+    width: 1000px;
+    height: 41px;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+a{
+    margin-left: 10px;
+}
+h3{
+    margin-left: 10px;
+    font-size: 17.34px;
+    text-align: left;
+}
